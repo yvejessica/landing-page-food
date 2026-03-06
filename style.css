@@ -255,6 +255,36 @@ height: 10rem;
     color: var(--yellow);
     text-decoration: underline;
 }
+.footer {
+  background: #111;
+  color: white;
+  text-align: center;
+  padding: 30px 20px;
+  margin-top: 60px;
+  font-size: 14px;
+}
+
+.heart {
+  color: #ff4d6d;
+}
+
+.footer-links {
+  margin-top: 10px;
+}
+
+.footer-links a {
+  color: #ffb703;
+  text-decoration: none;
+  margin: 0 10px;
+  font-weight: 500;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
+}
 
 /* ------home section------ */
 
